@@ -1,0 +1,28 @@
+{
+  "appName": "AddSsoDotnet3",
+  "projectId": "1d7ee426-4f7c-4f05-88ac-c4c8a96a38f8",
+  "version": "2.1.0",
+  "isFromSample": false,
+  "solutionSettings": {
+    "name": "fx-solution-azure",
+    "version": "1.0.0",
+    "hostType": "Azure",
+    "azureResources": [],
+    "capabilities": [
+      "Tab"
+    ],
+    "activeResourcePlugins": [
+      "fx-resource-frontend-hosting",
+      "fx-resource-identity",
+      "fx-resource-local-debug",
+      "fx-resource-appstudio",
+      "fx-resource-cicd",
+      "fx-resource-api-connector"
+    ]
+  },
+  "programmingLanguage": "csharp",
+  "pluginSettings": {
+    "projectFilePath": "C:\\Users\\bowsong\\TeamsApps\\AddSsoDotnet3\\AddSsoDotnet3\\AddSsoDotnet3.csproj"
+  },
+  "isFirstTimeOpenProject": false
+}
